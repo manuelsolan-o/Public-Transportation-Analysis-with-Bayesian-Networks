@@ -8,6 +8,8 @@ This project used data from the [National Mobility and Transportation Survey](ht
 
 *Mobility and Transportation Projects in Mexico City.* [^1]
 
+__Authors__: [Alejandra Velaco](https://github.com/Aleevz), [Manuel Solano](https://github.com/manuelsolan-o), [José Carlos Yamuni](https://github.com/josecyamuni), [Antonio Juaréz](https://github.com/JAJP2203), [Mayra de Luna](https://github.com/mayradlu)
+
 ## Building a Bayesian network 
 Three DAGs (Directed Acyclic Graphs) are proposed to represent the dependency relations among variables.
 
